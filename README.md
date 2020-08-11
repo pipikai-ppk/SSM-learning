@@ -1,4 +1,4 @@
-# SSM-learning
+# SSM-learning-case
 
 一个简单SSM框架案例的分析
 
